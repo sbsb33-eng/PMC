@@ -1,0 +1,6 @@
+# 仅上传 PMC.exe 与 用户操作说明.md，其余（源码/ico等）一律忽略
+*
+!PMC.exe
+!用户操作说明.md
+!.gitignore
+!README.md
